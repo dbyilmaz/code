@@ -1,0 +1,22 @@
+.btn{
+	border-radius: 0px; #nefret ediyorum radiuslardan :D
+}
+.jumbotron{
+	background:url("https://static.pexels.com/photos/289927/pexels-photo-289927.jpeg");
+	border-radius: 0px;
+	margin:0px 0px;
+	padding: 0px 0px;
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.basari{
+	background-color: rgba(255,255,255,0.4);
+	padding: 50px 20px;
+}
